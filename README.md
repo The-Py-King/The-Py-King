@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Py King<br><div align="center" width="100%"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%A5%B7+Python+Ninja+in+Training;%F0%9F%90%8D+Coding+One+Script+at+a+Time;%F0%9F%9A%80+Building+%26+Learning" alt="Typing SVG" /><br></div><br><br>
+<h1 id="Heading" align="center">💫 About Me:</h1>
+<h2>Hi there! 👋 I'm Py King</h2><br><div align="center" width="100%"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%A5%B7+Python+Ninja+in+Training;%F0%9F%90%8D+Coding+One+Script+at+a+Time;%F0%9F%9A%80+Building+%26+Learning" alt="Typing SVG" /><br></div><br><br>
 
 ## 🎯 Current Mission<br><br>🐍 Mastering Python fundamentals<br>🤖 Exploring automation and scripting<br>🌱 Building projects to level up my skills<br>📚 Learning best practices and clean code
 
@@ -25,6 +25,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/thepyking) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://PayPal.Me/ThePyKing)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
