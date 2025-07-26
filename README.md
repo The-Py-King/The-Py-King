@@ -1,4 +1,4 @@
-<h1 id="Heading" align="center">💫 About Me:</h1>
+<h1 id="Heading" align="center">$${\color{#39FF14}💫 About Me:}$$</h1>
 <h2>Hi there! 👋 I'm Py King</h2><br><div align="center" width="100%"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%A5%B7+Python+Ninja+in+Training;%F0%9F%90%8D+Coding+One+Script+at+a+Time;%F0%9F%9A%80+Building+%26+Learning" alt="Typing SVG" /><br></div><br><br>
 
 ## 🎯 Current Mission<br><br>🐍 Mastering Python fundamentals<br>🤖 Exploring automation and scripting<br>🌱 Building projects to level up my skills<br>📚 Learning best practices and clean code
